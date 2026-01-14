@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Áo"
+    },
+    {
+      "id": "2",
+      "name": "Quần"
+    },
+    {
+      "id": "3",
+      "name": "Phụ kiện"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "code": "SP001",
+      "name": "Quần đùi",
+      "date": "2026-01-13",
+      "quantity": 10,
+      "categoryId": 2
+    },
+    {
+      "id": "2",
+      "code": "SP002",
+      "name": "Dây chuyền bạc",
+      "date": "2026-01-06",
+      "quantity": "2",
+      "categoryId": 3
+    },
+    {
+      "id": "3",
+      "code": "SP003",
+      "name": "Áo khoác đông",
+      "date": "2026-01-14",
+      "quantity": "20",
+      "categoryId": 1
+    },
+    {
+      "id": "4",
+      "code": "SP004",
+      "name": "Áo thun nam",
+      "date": "2026-01-08",
+      "quantity": 15,
+      "categoryId": 1
+    },
+    {
+      "id": "5",
+      "code": "SP005",
+      "name": "Quần jean nữ",
+      "date": "2026-01-05",
+      "quantity": 5,
+      "categoryId": 2
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+.app-container {
+    padding: 24px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.page-title {
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 24px;
+}
+
+.search-bar {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 24px;
+    flex-wrap: wrap;
+}
+
+.empty-text {
+    text-align: center;
+    color: #d32f2f;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+.table-action {
+    white-space: nowrap;
+}
