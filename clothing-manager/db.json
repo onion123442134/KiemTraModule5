@@ -19,7 +19,7 @@
       "code": "SP001",
       "name": "Quần đùi",
       "date": "2026-01-13",
-      "quantity": 10,
+      "quantity": "10",
       "categoryId": 2
     },
     {
@@ -43,7 +43,7 @@
       "code": "SP004",
       "name": "Áo thun nam",
       "date": "2026-01-08",
-      "quantity": 15,
+      "quantity": "14",
       "categoryId": 1
     },
     {
@@ -51,7 +51,7 @@
       "code": "SP005",
       "name": "Quần jean nữ",
       "date": "2026-01-05",
-      "quantity": 5,
+      "quantity": "6",
       "categoryId": 2
     }
   ]
