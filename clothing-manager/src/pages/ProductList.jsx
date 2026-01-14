@@ -64,8 +64,8 @@ export default function ProductList() {
                     <Table>
                         <TableHead>
                             <TableRow sx={{ backgroundColor: "#f0f0f0" }}>
-                                <TableCell><b>Mã</b></TableCell>
-                                <TableCell><b>Tên</b></TableCell>
+                                <TableCell><b>Mã sản phẩm</b></TableCell>
+                                <TableCell><b>Tên sản phẩm</b></TableCell>
                                 <TableCell><b>Ngày nhập</b></TableCell>
                                 <TableCell><b>Số lượng</b></TableCell>
                                 <TableCell><b>Loại sản phẩm</b></TableCell>
