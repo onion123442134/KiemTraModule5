@@ -24,6 +24,18 @@ export default function ProductEdit() {
     const submit = async (e) => {
         e.preventDefault();
 
+        if (!form.name.trim())
+            return alert("Tên sản phẩm không được để trống");
+
+        if (!form.date)
+            return alert("Ngày nhập không được để trống");
+
+        if (!form.quantity)
+            return alert("Số lượng không được để trống");
+
+        if (!form.categoryId)
+            return alert("Vui lòng chọn loại sản phẩm");
+
         if (form.name.length > 100)
             return alert("Tên sản phẩm không quá 100 ký tự");
 
